@@ -10,6 +10,6 @@ Landing page desenvolvida para completar o desafio da [https://www.frontendmento
 
 **Link da minha resolução:**
 
-https://huddle-lp.netlify.app/
+https://huddle-lpage.netlify.app/
 
 ![Design preview](https://raw.githubusercontent.com/SueldoSales/HuddleLandingPage/master/public/img/desktop-preview.jpg)
